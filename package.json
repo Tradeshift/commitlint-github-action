@@ -56,7 +56,7 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "standard-version": "^9.1.1",
-    "testdouble": "^3.16.1",
+    "testdouble": "^3.16.6",
     "yaml": "^1.10.2"
   }
 }
