@@ -23,7 +23,7 @@
   "homepage": "https://github.com/wagoid/commitlint-github-action",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^6.0.1",
     "@commitlint/config-angular": "^18.1.0",
     "@commitlint/config-conventional": "^18.1.0",
     "@commitlint/config-lerna-scopes": "^18.1.0",
