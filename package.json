@@ -64,7 +64,7 @@
     "jest": "^30.0.3",
     "lint-staged": "^16.1.2",
     "prettier": "^3.6.2",
-    "rollup": "^2.79.2",
+    "rollup": "^4.44.1",
     "testdouble": "^3.20.2",
     "yaml": "^2.8.0"
   },
